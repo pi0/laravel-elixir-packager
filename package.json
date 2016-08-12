@@ -1,0 +1,24 @@
+{
+  "name": "laravel-elixir-packager",
+  "version": "0.0.2",
+  "description": "Laravel Elixir Packager",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "*",
+    "laravel-elixir": "*",
+    "laravel-elixir-rollup-official": "*"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pi0/laravel-elixir-packager.git"
+  },
+  "author": "Pooya Parsa <pooya@pi0.ir>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pi0/laravel-elixir-packager/issues"
+  },
+  "homepage": "https://github.com/pi0/laravel-elixir-packager#readme"
+}
